@@ -1,13 +1,15 @@
 body{
     background-color: #ecf4f3;
-    font-family:   'Geneva', Verdana', 'sans-serif';
+    font-family:   'Geneva','Verdana', 'sans-serif';
+    
 }
 hr{
     
-    border-style: dotted none none;
+    border-style: dashed none none;
    border-color: #006a71;
-   border-width: 3px;
-    width: 20%;
+   border-width:4px;
+    width: 50%;
+  
 }
 h1{
     color: #68b0ab;
