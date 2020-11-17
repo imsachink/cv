@@ -1,27 +1,27 @@
 body{
-    background-color: #d6e0f0;
+    background-color: #ecf4f3;
     font-family:   'Geneva', Verdana, sans-serif;
 }
 hr{
     
     border-style: dotted none none;
-   border-color: grey;
+   border-color: #006a71;
    border-width: 3px;
-    width: 30%;
+    width: 20%;
 }
 h1{
-    color: #66BFBF;
+    color: #68b0ab;
     font-family: 'roboto','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 h3{
-    color: #66BFBF;
+    color: #68b0ab;
     font-family:'Lucida Grande', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 a{
-    color:grey;
+    color:#006a71;
     text-decoration: none;
 
 }
 A:hover{
-    color:red;
+    color:grey;
 }
