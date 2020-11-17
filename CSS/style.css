@@ -1,6 +1,6 @@
 body{
     background-color: #ecf4f3;
-    font-family:   'Geneva', Verdana, sans-serif;
+    font-family:   'Geneva', Verdana', 'sans-serif';
 }
 hr{
     
@@ -11,17 +11,17 @@ hr{
 }
 h1{
     color: #68b0ab;
-    font-family: 'roboto','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'roboto','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', sans-serif;
 }
 h3{
     color: #68b0ab;
-    font-family:'Lucida Grande', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'Lucida Grande', 'Franklin Gothic Medium', 'Arial Narrow', 'Arial', sans-serif;
 }
 a{
     color:#006a71;
     text-decoration: none;
 
 }
-A:hover{
+a:hover{
     color:grey;
 }
