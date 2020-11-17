@@ -1,5 +1,6 @@
 body{
     background-color: #d6e0f0;
+    font-family:   'Geneva', Verdana, sans-serif;
 }
 hr{
     
@@ -10,9 +11,11 @@ hr{
 }
 h1{
     color: #66BFBF;
+    font-family: 'roboto','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 h3{
     color: #66BFBF;
+    font-family:'Lucida Grande', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 a{
     color:grey;
